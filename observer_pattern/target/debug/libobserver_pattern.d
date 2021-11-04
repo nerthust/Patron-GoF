@@ -1,0 +1,1 @@
+/home/ivyteew/university/softEng/GoF-pattern/observer_pattern/target/debug/libobserver_pattern.rlib: /home/ivyteew/university/softEng/GoF-pattern/observer_pattern/src/lib.rs /home/ivyteew/university/softEng/GoF-pattern/observer_pattern/src/subscriber.rs /home/ivyteew/university/softEng/GoF-pattern/observer_pattern/src/youtube_channel.rs
