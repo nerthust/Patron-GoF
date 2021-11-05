@@ -19,8 +19,7 @@ public class Carro {
     }
     @Override
     public String toString(){
-        return "Soy un " + referencia + " de la marca "+ marca+
-                " ademas soy un " + tipo + " y tengo un costo de "
-                + precio + " dolares";
+        return tipo +" "+ referencia + " de la marca "+ marca+
+                " con un costo de "+ precio + " dolares";
     }
 }
